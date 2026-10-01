@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class RecentlyPlayedScreen extends StatelessWidget {
-  const RecentlyPlayedScreen({Key? key}) : super(key: key);
+class SpotifyUi extends StatelessWidget {
+  const SpotifyUi({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
